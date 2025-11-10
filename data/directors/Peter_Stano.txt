@@ -1,0 +1,4 @@
+name|position|salary
+Peter Stano|HoD|8000.00
+--departments--
+--direct_reports--

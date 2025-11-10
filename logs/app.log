@@ -1,0 +1,8 @@
+2025-11-03 14:01:47,741 | INFO | Created manager: Employee(name=Martin Jurga, position=Manager, salary=2800.0)
+2025-11-03 14:03:55,958 | INFO | Added employee: Employee(name=Janko Hrasko, position=specalist, salary=2000.0)
+2025-11-03 14:03:55,960 | INFO | [Manager Martin Jurga] Hired Janko Hrasko into Department IT
+2025-11-03 14:03:55,960 | INFO | [Manager Martin Jurga] Added direct report: Janko Hrasko
+2025-11-04 09:53:07,121 | INFO | Created director: Employee(name=Peter Stano, position=HoD, salary=8000.0)
+2025-11-04 09:53:13,494 | INFO | [Director Peter Stano] Assigned department: HR
+2025-11-04 09:55:00,266 | INFO | [Director Peter Stano] Assigned department: HR
+2025-11-04 09:56:55,401 | INFO | [Director Peter Stano] Decision: 'testovanie' | Affected: HR

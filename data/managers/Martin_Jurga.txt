@@ -1,0 +1,4 @@
+name|position|salary
+Martin Jurga|Manager|2800.00
+--direct_reports--
+Janko Hrasko
